@@ -14,6 +14,7 @@ body{
     flex-direction: column;
     /*Generic projekt styles*/
     color: #a3a3a3;
+    font-family: 'Lato', satis;
 }
 /*header*/
 header{
